@@ -10,7 +10,7 @@ const Home = () => {
         backgroundSize: "cover",
       }}
     >
-      <h1>ARIELLA RUTH ADELSTIEN</h1>
+      <h1>ARIELLA RUTH ADELSTEIN</h1>
     </div>
   );
 };
